@@ -25,7 +25,7 @@ body {
 .navbar {
   background-image: linear-gradient(
     to right,
-    rgb(136, 136, 255),
+    rgb(172, 172, 254),
     rgb(20, 20, 248)
   );
   padding: 0 !important;
